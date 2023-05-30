@@ -62,6 +62,7 @@ namespace consoletestproject
                 Console.WriteLine(digit_int);
                 sum += digit_int;
             }
+         
             /*if(sum == 10) { sum = 0; return sum; }
             if(sum == 11) { sum = 1; return sum; }
             int sum_length = sum.ToString().Length;
